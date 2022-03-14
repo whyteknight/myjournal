@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whyteknight/myjournal/static/css/main.461bc0a6.css",
+    "main.js": "/whyteknight/myjournal/static/js/main.63244183.js",
+    "static/js/787.7eac1b81.chunk.js": "/whyteknight/myjournal/static/js/787.7eac1b81.chunk.js",
+    "index.html": "/whyteknight/myjournal/index.html",
+    "main.461bc0a6.css.map": "/whyteknight/myjournal/static/css/main.461bc0a6.css.map",
+    "main.63244183.js.map": "/whyteknight/myjournal/static/js/main.63244183.js.map",
+    "787.7eac1b81.chunk.js.map": "/whyteknight/myjournal/static/js/787.7eac1b81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.461bc0a6.css",
+    "static/js/main.63244183.js"
+  ]
+}
