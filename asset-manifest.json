@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/whyteknight/myjournal/static/css/main.614f3a32.css",
-    "main.js": "/whyteknight/myjournal/static/js/main.d8623198.js",
-    "static/js/787.20a7badf.chunk.js": "/whyteknight/myjournal/static/js/787.20a7badf.chunk.js",
-    "index.html": "/whyteknight/myjournal/index.html",
-    "main.614f3a32.css.map": "/whyteknight/myjournal/static/css/main.614f3a32.css.map",
-    "main.d8623198.js.map": "/whyteknight/myjournal/static/js/main.d8623198.js.map",
-    "787.20a7badf.chunk.js.map": "/whyteknight/myjournal/static/js/787.20a7badf.chunk.js.map"
+    "main.css": "/static/css/main.614f3a32.css",
+    "main.js": "/static/js/main.eb879fac.js",
+    "static/js/787.20a7badf.chunk.js": "/static/js/787.20a7badf.chunk.js",
+    "index.html": "/index.html",
+    "main.614f3a32.css.map": "/static/css/main.614f3a32.css.map",
+    "main.eb879fac.js.map": "/static/js/main.eb879fac.js.map",
+    "787.20a7badf.chunk.js.map": "/static/js/787.20a7badf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.614f3a32.css",
-    "static/js/main.d8623198.js"
+    "static/js/main.eb879fac.js"
   ]
 }
