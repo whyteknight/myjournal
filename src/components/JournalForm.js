@@ -38,15 +38,13 @@ const JournalForm = () => {
       }, [journalList]  
       );
 
-      //   const deleteAll = () => {
-      //   setJournalList([]);
-      // }
-        function handleDeleteClick(id) {
-        const removeItem = journalList.filter((todo) => {
-          return todo.id !== id;
-        });
-        setJournalList(removeItem);
-      }
+
+    function handleDeleteClick(id) {
+      const removeItem = journalList.filter((todo) => {
+      return todo.id !== id;
+    });
+      setJournalList(removeItem);
+    }
   
     return (
       <div className = "container" style={{backgroundColor: "lightblue"}}>
